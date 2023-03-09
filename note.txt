@@ -1,0 +1,7 @@
+Videp Link/Ref : https://www.youtube.com/watch?v=9eHh946qTIk
+
+front end ref: https://www.youtube.com/watch?v=ReNkQ0Xkccw
+
+
+
+work on modification api :: /product GET
